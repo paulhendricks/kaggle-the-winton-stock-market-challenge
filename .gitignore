@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 kaggle-the-allen-ai-science-challenge.Rproj
-.DS_Store
+**/.DS_Store
 **/.idea
 /reports/.ipynb_checkpoints
 kaggle-the-winton-stock-market-challenge.Rproj

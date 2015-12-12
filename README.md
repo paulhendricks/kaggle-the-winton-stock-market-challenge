@@ -1,1 +1,1 @@
-# kaggle-the-winton-stock-market-challenge
+# Kaggle: The Winton Stock Market Challenge
