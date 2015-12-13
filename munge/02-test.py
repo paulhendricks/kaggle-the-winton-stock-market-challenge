@@ -25,7 +25,6 @@ original_path = './data/original/'
 file_name = 'test.csv'
 z = zipfile.ZipFile(original_path + file_name + '.zip')
 test = pd.read_csv(z.open(file_name))
-test.head()
 
 # TODO Set column names
 
