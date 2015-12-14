@@ -15,12 +15,12 @@ test.h5
 '''
 
 
-# TODO Load libraries
+# Load libraries
 import pandas as pd
 import zipfile
 import numpy as np
 
-# TODO Load data
+# Load data
 original_path = './data/original/'
 file_name = 'test.csv'
 z = zipfile.ZipFile(original_path + file_name + '.zip')
